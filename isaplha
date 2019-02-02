@@ -1,5 +1,5 @@
 s=input()
-if s.islapha():
+if s.isalpha():
    print("alphabet")
 elif s.isnumeric():
    print("number")
