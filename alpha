@@ -1,0 +1,7 @@
+s=input()
+if s.islapha():
+   print("alphabet")
+elif s.isnumeric():
+   print("number")
+else:
+   print("specialcharacter")
