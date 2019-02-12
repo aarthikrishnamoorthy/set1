@@ -1,7 +1,7 @@
-d=input()
-if d.isnumeric():
-    c=int(d)
-    if c%2==0:
+a=input()
+if a.isnumeric():
+    b=int(a)
+    if b%2==0:
         print("Even")
     else:
         print("Odd")
