@@ -1,7 +1,7 @@
-n1,n2,n3=map(int,input().split())
-if n1>n2 and n1>n3:
-    print(n1)
-elif n2>n3:
-    print(n2)
+a,b,c=map(int,input().split())
+if a>b and a>c:
+    print(a)
+elif b>c:
+    print(b)
 else:
-    print(n3)
+    print(c)
