@@ -4,4 +4,4 @@ summ=0
 while w<=n:
     summ=summ+w
     w=w+1
-    print(summ)
+print(summ)
